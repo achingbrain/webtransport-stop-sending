@@ -1,4 +1,6 @@
-# webtransport-send-lots-of-data
+# webtransport-stop-sending
+
+> WebTransport streams should still be readable after the server sends STOP_SENDING
 
 Starts a [webtransport-go](https://github.com/quic-go/webtransport-go) server on
 port 12345.
